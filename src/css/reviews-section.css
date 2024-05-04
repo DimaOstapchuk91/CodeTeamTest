@@ -13,11 +13,6 @@
   border-radius: 30px;
   max-width: 344px;
 }
-/* 
-.review-item:nth-child(2),
-.review-item:nth-child(3) {
-  display: none;
-} */
 
 .review-list-image {
   border-radius: 100%;
